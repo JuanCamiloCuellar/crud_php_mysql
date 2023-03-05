@@ -10,7 +10,7 @@
                                 <input type="text" class="form-control form-control-lg" placeholder="Usuario"  name="username">
                             </div>
                             <div class="form-outline form-white mb-4">
-                                <input type="password" class="form-control form-control-lg" placeholder="Password"  name="password">
+                                <input type="password" class="form-control form-control-lg" placeholder="Contraseña"  name="password">
                             </div>
                             <button class="btn btn-outline-light btn-lg px-5" type="submit">Iniciar sesión</button>
                         </form>

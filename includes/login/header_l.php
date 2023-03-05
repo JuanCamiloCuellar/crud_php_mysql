@@ -10,14 +10,6 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-dark bg-dark">
-       
-        <div class="container">
-            
-            <a class="navbar-brand">CRUD PHP MYSQL</a>
-            <a href="index.php" class="navbar-brand justify-content-end  ">cerrar sesión</a>
-        </div>
-        
-    </nav>
+    
     
       

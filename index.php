@@ -1,5 +1,4 @@
-<?php include("includes/header.php") ?>
-<?php echo "<br>" ?>
+<?php include("includes/login/header_l.php") ?>
 <?php
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
@@ -22,6 +21,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
 }
 ?>
-<?php include("includes/inter.php") ?>
+<?php include("includes/login/inter.php") ?>
 
-<?php include("includes/footer.php") ?>
+<?php include("includes/login/footer_l.php") ?>
