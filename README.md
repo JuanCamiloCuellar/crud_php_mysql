@@ -48,3 +48,10 @@ CREATE TABLE DOC_DOCUMENTO (
   CONSTRAINT FK_DOC_PROCESO FOREIGN KEY (DOC_ID_PROCESO) REFERENCES PRO_PROCESO(PRO_ID)
 );
 ```
+
+| #LOGIN |
+| ----------- |
+| usuario| contraseña|
+| ----- | ---- |
+| admin | admin |
+
