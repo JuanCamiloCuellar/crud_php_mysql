@@ -3,7 +3,7 @@ $conn = mysqli_connect (
     'localhost',
     'root',
     '',
-    'mi_base_de_datos'
+    'db_crud'
 );
 
 $sql = "SELECT * FROM pro_proceso";

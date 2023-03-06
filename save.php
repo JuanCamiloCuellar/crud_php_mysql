@@ -9,7 +9,7 @@ if (isset($_POST['save_task'])) {
   $tipo = $_POST['tipo'];
   $codigo = $_POST['codigo'];
   $query = "INSERT INTO doc_documento(DOC_NOMBRE,DOC_CONTENIDO,DOC_ID_PROCESO,DOC_ID_TIPO,DOC_CODIGO) VALUES ('$nombre', '$contenido','$proceso','$tipo','$codigo')";
-  $result = mysqli_query($conn, $query);
+  $result= mysqli_query($conn, $query);
   if(!$result) {
     die("Query Failed.");
   }
