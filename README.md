@@ -1,6 +1,9 @@
 # CRUD PHP MYSQL
 -------------------
  ```mysql
+-- Crear la base de datos--
+CREATE DATABASE db_crud
+
 -- Crear la tabla PRO_PROCESO --
 
 CREATE TABLE PRO_PROCESO (
