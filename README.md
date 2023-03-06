@@ -50,6 +50,7 @@ CREATE TABLE DOC_DOCUMENTO (
 ```
 
 | #LOGIN             |
+| ----- |
 | usuario| contraseña|
 | ----- | ---- |
 | admin | admin |
