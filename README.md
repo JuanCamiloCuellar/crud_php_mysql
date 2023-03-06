@@ -1,5 +1,7 @@
 # CRUD PHP MYSQL
 -------------------
+### los scripts necesarios para la instalación de labase de datos (Mysql) tanto DDL como DML
+
  ```mysql
 -- Crear la base de datos--
 CREATE DATABASE db_crud
