@@ -49,7 +49,7 @@ CREATE TABLE DOC_DOCUMENTO (
 );
 ```
 
-| #LOGIN             |
+| LOGIN             |
 | ----- |
 | usuario| contraseña|
 | ----- | ---- |
